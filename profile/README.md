@@ -28,14 +28,6 @@
 2. **Build in the open.** Working progress every week, not a big reveal at the end.
 3. **Own it after.** Clean code, plain-language docs, and full access to everything. When it's done, the work is yours.
 
-## In the open
-
-| Project | What it is | Status |
-| --- | --- | --- |
-| [**freight-broker-toolkit**](https://github.com/Bayou-City-Labs/freight-broker-toolkit) | Automation for small freight brokerages: carrier vetting, load intake, and document generation. Next.js, TypeScript, PostgreSQL. | Early. Carrier vetting is built; load intake is next. |
-
-Client work stays private by default. Clients own their repositories.
-
 ## Stack
 
 TypeScript · React · Next.js · Node · C# / .NET · PostgreSQL
