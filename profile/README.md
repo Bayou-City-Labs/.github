@@ -18,11 +18,9 @@
 
 ## What we build
 
-| | |
-| --- | --- |
-| **Websites & storefronts** | Marketing sites, online stores, and booking flows that load fast, rank well, and stay easy for you to update. |
-| **Web apps & custom tools** | Dashboards, client portals, and internal tools shaped around how your business actually runs. |
-| **Audits & rescues** | Inherited a broken site or a build that stalled halfway? Performance audits, migrations, and getting it shipped without starting over. |
+- **Websites & storefronts.** Marketing sites, online stores, and booking flows that load fast, rank well, and stay easy for you to update.
+- **Web apps & custom tools.** Dashboards, client portals, and internal tools shaped around how your business actually runs.
+- **Audits & rescues.** Inherited a broken site or a build that stalled halfway? Performance audits, migrations, and getting it shipped without starting over.
 
 ## How a project runs
 
